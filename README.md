@@ -1,16 +1,6 @@
 # matching_game
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![loadingscreen](https://user-images.githubusercontent.com/66571666/183304717-ed13f513-9117-4463-ac4d-87a314c24248.png)
+![playground](https://user-images.githubusercontent.com/66571666/183304720-a88af81d-f6e2-4332-962d-03ef88bf42f6.png)
+![winscreen](https://user-images.githubusercontent.com/66571666/183304722-39b3861b-d13c-40ff-b0f7-f1a4de216b3c.png)
+![gameoverscreen](https://user-images.githubusercontent.com/66571666/183304724-abc8c863-1aa5-498a-9382-228fba07783b.png)
